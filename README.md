@@ -4,9 +4,8 @@
 
 This project leverages WallMart Sales Forecast dataset to forecast sales and determine employee requirements across various store departments. By analyzing historical data on store performance, foot traffic, sales, and employee counts, the model aims to:
 
-- **Forecast future sales** for different store departments.
+- **Forecast future sales** for all the store departments.
 - **Predict employee requirements** based on expected foot traffic and sales volume.
-- **Optimize staffing schedules** to improve operational efficiency.
 
 ## Dataset Description
 
@@ -131,5 +130,5 @@ In the future, I would love to improve the employee optimization model, I plan t
 
 ## Conclusion
 
-The Sales Forecasting and Employee Optimization Model is a powerful tool for store managers and data analysts, enabling them to make informed decisions about workforce scheduling and sales trends. By using historical data, this model helps predict future staffing needs and sales, thereby supporting operational efficiency and improving customer satisfaction.
+The Sales Forecasting and Employee Optimization Model is a powerful tool for store managers, enabling them to make informed decisions about workforce scheduling and sales trends. By using historical data, this model helps predict future staffing needs and sales, thereby supporting operational efficiency and improving customer satisfaction.
 
